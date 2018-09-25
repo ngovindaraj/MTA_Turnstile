@@ -1,8 +1,8 @@
 # MTA_Turnstile
 
-*Customer Email*
+## Customer Email
 
-From (Project Benson)[https://github.com/thisismetis/sf18_ds12/tree/master/projects/01-benson]
+From [Project Benson](https://github.com/thisismetis/sf18_ds12/tree/master/projects/01-benson)
 ```
 Dear DS Consultant,
 
@@ -27,5 +27,5 @@ WTWY International
 
 
 
-*Problem Statement*
+# Problem Statement
 In order to maximize the amount of signatures and the likelihood for contribution for the WTWY gala, we plan on looking at several features at each stop, including amount of riders, distributions of gender, affluence and education in the areas. Given this data, our group will determine the “hot spots” to deploy gala recruiters.
