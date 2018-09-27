@@ -7,7 +7,7 @@ soup = BeautifulSoup(page, features="html5lib")
 
 urls = []
 for a in soup.find_all('a', href=True):
-    urls.append(["http://web.mta.info/developers/data/nyct/turnstile/" + a['href']])
+    urls.append(["http://web.mta.info/developers/" + a['href']])
 
 urls = urls[35:]
 
