@@ -1,6 +1,6 @@
 ## Exploratory Data Analysis of MTA Subway Data
 
-This project analyzes NYC's MTA turnstile data to determine strategic locations  with the goal of targeting people who would be interested in attending as well as in donating to WomenTechWomenYes(WTWY), a fictitious organization aimed at bridging the gender gap in the technology sector.
+WomenTechWomenYes (WTWY) is a fictitious non-profit that aims to bridge the gender gap in the techology sector. This project analyzes NYC's MTA turnstile data. We determine strategic locations to station volunteers from WTWY, with the goal of targeting people who would be interested in attending and supporting the cause of the non-profit.
 
 ### Data:
 MTA Data (http://web.mta.info/developers/turnstile.html)
