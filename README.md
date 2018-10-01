@@ -1,30 +1,14 @@
-# MTA_Turnstile
+## Exploratory Data Analysis of MTA Subway Data
 
-## Customer Email
+WomenTechWomenYes (WTWY) is a fictitious non-profit that aims to bridge the gender gap in the techology sector. This project analyzes NYC's MTA turnstile data. We determine strategic locations to station volunteers from WTWY, with the goal of targeting people who would be interested in attending and supporting the cause of the non-profit.
 
-From [Project Benson](https://github.com/thisismetis/sf18_ds12/tree/master/projects/01-benson)
-
-> Dear DS Consultant,
->
-> It was great to meet with you and chat at the event where we recently met and had a nice chat. We’d love to take some next steps to see if working together is something that would make sense for both parties.
->
-> As we mentioned, we are interested in harnessing the power of data and analytics to optimize the effectiveness of our street team work, which is a significant portion of our fundraising efforts.
->
-> WomenTechWomenYes (WTWY) has an annual gala at the beginning of the summer each year. As we are new and inclusive organization, we try to do double duty with the gala both to fill our event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and reach.
->
-> To this end we place street teams at entrances to subway stations. The street teams collect email addresses and those who sign up are sent free tickets to our gala.
->
-> Where we’d like to solicit your engagement is to use MTA subway data, which as I’m sure you know is available freely from the city, to help us optimize the placement of our street teams, such that we can gather the most signatures, ideally from those who will attend the gala and contribute to our cause.
->
-> The ball is in your court now—do you think this is something that would be feasible for your group? From there we can explore what kind of an engagement would make sense for all of us.
->
-> Best,
->
-> Karrine and Dahlia
->
-> WTWY International
+### Data:
+MTA Data (http://web.mta.info/developers/turnstile.html)
 
 
+Below are the links to different sections of the project.
 
-# Problem Statement
-In order to maximize the amount of signatures and the likelihood for contribution for the WTWY gala, we plan on looking at several features at each stop, including amount of riders, distributions of gender, affluence and education in the areas. Given this data, our group will determine the “hot spots” to deploy gala recruiters.
+- [Web scraping primary data](https://github.com/ngovindaraj/MTA_Turnstile/blob/master/1_Webscraping_Datasets_And_Appending.ipynb)
+- [Web scraping secondary sources](https://github.com/ngovindaraj/MTA_Turnstile/blob/master/2_Webscraping_Income_Charity_Contributions.ipynb)
+- [Data Wrangling](https://github.com/ngovindaraj/MTA_Turnstile/blob/master/4_MTA_Turnstile_Data_Wrangling.ipynb)
+- [EDA and Visualization](https://github.com/ngovindaraj/MTA_Turnstile/blob/master/5%20MTA%20turnstile%20Data%20Analysis%20and%20Visualization.ipynb)
